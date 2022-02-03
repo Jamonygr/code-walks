@@ -2,7 +2,7 @@
 # $TemplateObject = ConvertFrom-Json $TemplateFileText -AsHashtable
 
 $MySettings = @{
-    Region = 'eastus'
+    Region = 'westeurope'
     ResourceGroup = 'walkthru-rg'
-    NamePrefix = 'dave2022'
+    NamePrefix = 'Chris2023'
 } 
